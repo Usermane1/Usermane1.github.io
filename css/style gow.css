@@ -1,0 +1,17 @@
+body{
+	background-image: url(../img/b1.jpg);
+}
+.up{
+	background-color: #C0C0C0;
+	height: 40px;
+	width: 100%;
+	margin-top: 0%;
+	text-align:  center;
+}
+.back{
+	background-color: #C0C0C0;
+	height: 100%;
+	width: 1000px;
+	margin-left: 24%;
+	margin-right: auto;
+}

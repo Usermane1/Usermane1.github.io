@@ -1,0 +1,32 @@
+body{
+	background-image: url(../img/b1.jpg);
+	}
+.menu{
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 10%;
+}
+.menu2{
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+
+}
+.footer{
+	background-color: #C0C0C0;
+	margin-top: -3%;
+	height: 90px;
+	width: 100%;
+	text-align: center;
+}
+.up{
+	background-color: #C0C0C0;
+	height: 75px;
+	width: 100%;
+	margin-top: 0%; 
+}
+
+
+
+
